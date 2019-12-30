@@ -1,7 +1,4 @@
 Hello
 My name is arun
-Qualification
-MCA
-Football
-Barcelona
-Chandigarh
+Computer
+Teacher
